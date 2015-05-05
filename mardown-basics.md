@@ -4,7 +4,7 @@ markdown: permite-lhe escrever usandor um facil de ler, facilde escrever formata
 
 #escrita básica
 
-parágrafo
+###parágrafo
 
 Parágrafos em Markdown são apenas uma ou mais linhas de texto consecutivos, seguido de uma ou mais linhas em branco
 
@@ -12,7 +12,7 @@ Em 2 de julho, uma nave-mãe alienígena entrou em órbita da Terra e implantado
 
 Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 zangões, participou de um assalto em um destruidor perto da cidade de Los Angeles.
 
-Cabeçalhos
+###Cabeçalhos
 
 Você pode criar um título, adicionando um ou mais # símbolos antes de seu texto de título. O número de # você usa irá determinar o tamanho do cabeçalho.
 
@@ -20,7 +20,7 @@ Você pode criar um título, adicionando um ou mais # símbolos antes de seu tex
      ## A segunda maior rubrica (um <h2> tag)... 
       ###### O 6º maior título (um <h6> tag)
 
-Bloco de citação
+###Bloco de citação
 
 você pode indicar bloco de citação com um >
 
@@ -28,7 +28,7 @@ Nas palavras de Abraham Lincoln:
 
 perdão meu francês
 
-texto estilo
+###texto estilo
 
 Você pode fazer o texto em negrito ou itálico.
 
@@ -41,10 +41,10 @@ Ambos negrito e itálico pode usar um * ou um _ em torno do texto para o estilo.
 
 ** Todos _deve_ participar da reunião às 5 horas de hoje. **
 
-Listas
+#Listas
 
  
- Listas não ordenadas
+### Listas não ordenadas
 
 
 Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou um - .
@@ -57,7 +57,7 @@ Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou 
      - artigo
      - artigo
   
-listas ordenadas
+###listas ordenadas
 
 Você pode fazer uma lista ordenada precedendo itens da lista com um número.
 
@@ -65,7 +65,7 @@ Você pode fazer uma lista ordenada precedendo itens da lista com um número.
 2. Item 2
 3. Item 3
 
-Listas aninhadas
+###Listas aninhadas
 
 Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
 
@@ -77,15 +77,16 @@ Você pode criar listas aninhadas pelo recuo itens da lista por dois espaços.
     * Este é recuado quatro espaços, porque é dois espaços mais longe do que o item acima. 
     * Você pode querer considerar fazer uma nova lista. 
     3. Item 3
-    4. A formatação do código
+  
+#A formatação do código
 
-Formatos em linha
+###Formatos em linha
 
 Use Bloco de citação simples ( ` ) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
 
     Aqui está uma idéia: por que não vamos tomar `projeto superio` e transformá-lo em` ** ** projeto` razoável.
 
-Várias linhas
+###Várias linhas
 
 Você pode usar acentos graves triplos ( `` ` ) para formatar o texto como seu próprio bloco distinta.
 
@@ -97,7 +98,7 @@ Você pode usar acentos graves triplos ( `` ` ) para formatar o texto como seu p
     que é x 
      `` `
 
-as ligações
+###as ligações
 
 Você pode criar uma ligação em linha por envolvimento texto da ligação entre colchetes ( [] ), e, em seguida, envolver a ligação entre parênteses ( () ).
 
